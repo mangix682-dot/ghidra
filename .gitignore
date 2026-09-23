@@ -90,3 +90,6 @@ core.*
 __pycache__
 
 gradle.lockfile
+
+# AI reverse-engineering workspace: ignore the large Ghidra project and generated outputs
+ai-context/decompiled/
